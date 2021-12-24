@@ -11,7 +11,6 @@ OpenSea Storefront: https://testnets.opensea.io/collection/real-estate-wjjavjy2m
 
 Contract ABI will be found here: `./eth-contracts/build/contracts/*.json`
 
-![Storefront](./storefront.png?raw=true "Storefront")
 ##### Steps--:
 ### Installation
 
